@@ -1,0 +1,6 @@
+{
+  "name": "GIS - GIGO Intelligent System",
+  "description": "Enterprise-grade financial intelligence, macroeconomic analytics, rates & yields, CME futures, COT positioning, and multi-account risk management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
